@@ -1,0 +1,3 @@
+//factory design pattarn
+<?php
+?>
